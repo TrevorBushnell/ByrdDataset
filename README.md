@@ -26,6 +26,11 @@ Contained in this repository is the music of William Byrd, to be used for comput
 * Alma Redemptoris Mater
 * Apparebit in finem
 * Ascendit Deus in jubilatione
+* Aspice Domine quia facta est
+* Aspice Domine de sede - Respice Domine
+* Assumpta est Maria
+* Attollite portas
+* Audivi vocem
 * Ave Maria
 * Ave Verum Corpus
 * Haec Dies
@@ -43,6 +48,15 @@ Contained in this repository is the music of William Byrd, to be used for comput
 * Behold how good a thing - And as the pleasant morning dew
 * Bow thine ear, O Lord
 * Come help O God (MIDI file)
+* Come let us rejoice unto our Lord
+* An earthly tree a heavenly fruit - Cast off all doubtful care
+* Even from the depth
+* From depth of sin
+* From Virgin's womb - Rejoice rejoice
+* Have mercy upon me
+* Help, Lord, for wasted are those men
+* How long shall mine enemies
+* How shall a young man
 * O Lord, Make Thy Servant Elizabeth Our Queen
 * Praise Our Lord All Ye Gentiles
 * Sing Joyfully
@@ -54,4 +68,10 @@ Contained in this repository is the music of William Byrd, to be used for comput
 * Ambitious love
 * And think ye Nymphs to scorn at love - Love is a fit of pleasure
 * As I beheld I saw a herdman wild
+* Care for thy soul
+* Come jolly Swains
+* Come to me grief for ever
+* Come woeful Orpheus
+* Compel the hawk to sit
+* Constant Penelope
 * If Women Could Be Fair
